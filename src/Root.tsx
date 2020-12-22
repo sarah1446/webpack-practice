@@ -3,7 +3,7 @@ import './style.scss';
 
 const Root = () => {
   return (
-    <h3 className="title">!!Hello, React!!!!zz</h3>
+    <h3 className="title">He llo, React!!!!zz</h3>
   );
 };
 
